@@ -3,4 +3,10 @@ CMake Error at CMakeLists.txt:2 (project):
   project PROJECT called with incorrect number of arguments
 
 
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "cmake-build-debug/w1/w1_Q2217.cpp" is reserved or not
+  valid for certain CMake features, such as generator expressions, and may
+  result in undefined behavior.
+
+
 -- Configuring incomplete, errors occurred!
